@@ -10,7 +10,7 @@
 html,body {
 -webkit-font-smoothing:antialiased;
 -webkit-text-size-adjust:100%;
-background-color:#0665a2;
+background-color:#494949;
 color:#fff;
 font-size:1rem;
 font-family:"Oxygen", HelveticaNeue, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -44,8 +44,8 @@ h1 { font-size: 1.4rem; text-align:center; margin-bottom: 1.4rem; border-bottom:
 
 p { color:#fff; display:block; font-size:.9rem; font-weight:400; margin:0 0 2px; }
 
-a,a:visited { color:#8cc3e6; outline:0; text-decoration:underline; }
-a:hover,a:focus { color:#bbdef5; }
+a,a:visited { color:#cfcfcf; outline:0; text-decoration:underline; }
+a:hover,a:focus { color:#efefef; }
 p a,p a:visited { line-height:inherit; }
 
 
@@ -127,6 +127,8 @@ position:absolute;
 right:65px;
 text-overflow:ellipsis;
 top:0;
+padding-left: 10px;
+padding-right: 10px;
 white-space:nowrap;
 }
 
@@ -161,6 +163,20 @@ margin:0 5px 50px;
 padding:10px 15px;
 text-decoration:none;
 transition:background .3s ease;
+}
+
+.plTrackName {
+font-weight: 600;
+}
+
+.plTrackGrouping {
+text-transform: uppercase;
+font-size: 0.75rem;
+}
+
+.plTrackComposer {
+font-style: italic;
+font-size: 0.8rem;
 }
 
 #tracks a:last-child {

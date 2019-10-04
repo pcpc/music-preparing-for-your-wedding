@@ -364,7 +364,7 @@ jQuery(function ($) {
                 $('#plList').append('<li> \
                     <div class="plItem"> \
                         <div class="plNum"> ' + trackNumber + '.</div> \
-                        <div class="plTitle"> <div class="plTrackGrouping">[' + trackGrouping + ']</div> <div class="plTrackName">'+ trackName + '</div> <div class="plTrackComposer"><span class="byLineIntro">by</span> ' + trackComposer +'</div></div> \
+                        <div class="plTitle"> <div class="plTrackGrouping">' + trackGrouping + '</div> <div class="plTrackName">'+ trackName + '</div> <div class="plTrackComposer"><span class="byLineIntro">by</span> ' + trackComposer +'</div></div> \
                         <div class="plLength">' + trackDuration + '</div> \
                     </div> \
                 </li>');

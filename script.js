@@ -31,7 +31,7 @@ jQuery(function ($) {
     "composer": "Clarke",
     "file": "01_trumpet_voluntary",
     "extension": "mp3",
-    "duration": "0:01:13"
+    "duration": "01:13"
   },
   {
     "track": 2,
@@ -42,7 +42,7 @@ jQuery(function ($) {
     "composer": "Purcell",
     "file": "02_trumpet_tune_in_d",
     "extension": "mp3",
-    "duration": "0:00:58"
+    "duration": "00:58"
   },
   {
     "track": 3,
@@ -53,7 +53,7 @@ jQuery(function ($) {
     "composer": "Charpentier",
     "file": "03_prelude_from_te_deum",
     "extension": "mp3",
-    "duration": "0:01:08"
+    "duration": "01:08"
   },
   {
     "track": 4,
@@ -64,7 +64,7 @@ jQuery(function ($) {
     "composer": "Wagner",
     "file": "04_bridal_chorus_from_lohengrin",
     "extension": "mp3",
-    "duration": "0:01:43"
+    "duration": "01:43"
   },
   {
     "track": 5,
@@ -75,7 +75,7 @@ jQuery(function ($) {
     "composer": "Handel",
     "file": "05_overture_to_fireworks_music",
     "extension": "mp3",
-    "duration": "0:01:35"
+    "duration": "01:35"
   },
   {
     "track": 6,
@@ -86,7 +86,7 @@ jQuery(function ($) {
     "composer": "Campra",
     "file": "06_riguadon",
     "extension": "mp3",
-    "duration": "0:01:18"
+    "duration": "01:18"
   },
   {
     "track": 7,
@@ -97,7 +97,7 @@ jQuery(function ($) {
     "composer": "Vaughan Williams",
     "file": "07_the_old_hundredth_psalm_tune",
     "extension": "mp3",
-    "duration": "0:01:42"
+    "duration": "01:42"
   },
   {
     "track": 8,
@@ -108,7 +108,7 @@ jQuery(function ($) {
     "composer": "Johnson",
     "file": "08_trumpet_tune_in_d",
     "extension": "mp3",
-    "duration": "0:01:20"
+    "duration": "01:20"
   },
   {
     "track": 9,
@@ -119,7 +119,7 @@ jQuery(function ($) {
     "composer": "Pachelbel",
     "file": "09_canon_in_d",
     "extension": "mp3",
-    "duration": "0:01:56"
+    "duration": "01:56"
   },
   {
     "track": 10,
@@ -130,7 +130,7 @@ jQuery(function ($) {
     "composer": "Bach",
     "file": "10_jesu_joy_of_mans_desiring",
     "extension": "mp3",
-    "duration": "0:01:18"
+    "duration": "01:18"
   },
   {
     "track": 11,
@@ -141,7 +141,7 @@ jQuery(function ($) {
     "composer": "Bach",
     "file": "11_sheep_may_safely_graze",
     "extension": "mp3",
-    "duration": "0:01:37"
+    "duration": "01:37"
   },
   {
     "track": 12,
@@ -152,7 +152,7 @@ jQuery(function ($) {
     "composer": "Holst",
     "file": "12_o_god_beyond_all_praising",
     "extension": "mp3",
-    "duration": "0:01:40"
+    "duration": "01:40"
   },
   {
     "track": 13,
@@ -163,7 +163,7 @@ jQuery(function ($) {
     "composer": "Bach",
     "file": "13_air_from_suite_in_d",
     "extension": "mp3",
-    "duration": "0:00:59"
+    "duration": "00:59"
   },
   {
     "track": 14,
@@ -174,7 +174,7 @@ jQuery(function ($) {
     "composer": "Bach",
     "file": "14_arioso",
     "extension": "mp3",
-    "duration": "0:01:07"
+    "duration": "01:07"
   },
   {
     "track": 15,
@@ -185,7 +185,7 @@ jQuery(function ($) {
     "composer": "Handel",
     "file": "15_air_from_water_music",
     "extension": "mp3",
-    "duration": "0:01:15"
+    "duration": "01:15"
   },
   {
     "track": 17,
@@ -196,7 +196,7 @@ jQuery(function ($) {
     "composer": "Handel",
     "file": "16_aria_from_concerto_grosso",
     "extension": "mp3",
-    "duration": "0:01:37"
+    "duration": "01:37"
   },
   {
     "track": 17,
@@ -207,7 +207,7 @@ jQuery(function ($) {
     "composer": "",
     "file": "17_introduction",
     "extension": "mp3",
-    "duration": "0:00:11"
+    "duration": "00:11"
   },
   {
     "track": 18,
@@ -218,7 +218,7 @@ jQuery(function ($) {
     "composer": "Handel",
     "file": "18_hornpipe_from_water_music",
     "extension": "mp3",
-    "duration": "0:00:47"
+    "duration": "00:47"
   },
   {
     "track": 19,
@@ -229,7 +229,7 @@ jQuery(function ($) {
     "composer": "Bach",
     "file": "19_sinfonia_from_cantata_29",
     "extension": "mp3",
-    "duration": "0:00:53"
+    "duration": "00:53"
   },
   {
     "track": 20,
@@ -240,7 +240,7 @@ jQuery(function ($) {
     "composer": "Karg-Elert",
     "file": "20_now_thank_we_all_our_god",
     "extension": "mp3",
-    "duration": "0:01:26"
+    "duration": "01:26"
   },
   {
     "track": 21,
@@ -251,7 +251,7 @@ jQuery(function ($) {
     "composer": "Bach",
     "file": "21_now_thank_we_all_our_god",
     "extension": "mp3",
-    "duration": "0:01:01"
+    "duration": "01:01"
   },
   {
     "track": 22,
@@ -262,7 +262,7 @@ jQuery(function ($) {
     "composer": "Widor",
     "file": "22_toccata_from_symphony_5",
     "extension": "mp3",
-    "duration": "0:01:07"
+    "duration": "01:07"
   },
   {
     "track": 23,
@@ -273,7 +273,7 @@ jQuery(function ($) {
     "composer": "Mendelssohn",
     "file": "23_wedding_march",
     "extension": "mp3",
-    "duration": "0:01:05"
+    "duration": "01:05"
   },
   {
     "track": 24,
@@ -284,7 +284,7 @@ jQuery(function ($) {
     "composer": "Karg-Elert",
     "file": "24_praise_the_lord_with_drums_and_cymbals",
     "extension": "mp3",
-    "duration": "0:01:01"
+    "duration": "01:01"
   },
   {
     "track": 25,
@@ -295,7 +295,7 @@ jQuery(function ($) {
     "composer": "Vierne",
     "file": "25_finale_from_symphony_no_1",
     "extension": "mp3",
-    "duration": "0:00:56"
+    "duration": "00:56"
   },
   {
     "track": 26,
@@ -306,7 +306,7 @@ jQuery(function ($) {
     "composer": "Widor",
     "file": "26_finale_from_symphony_no_2",
     "extension": "mp3",
-    "duration": "0:00:58"
+    "duration": "00:58"
   },
   {
     "track": 27,
@@ -317,7 +317,7 @@ jQuery(function ($) {
     "composer": "Mendelssohn",
     "file": "27_allegro_from_sonata_no_2",
     "extension": "mp3",
-    "duration": "0:00:59"
+    "duration": "00:59"
   },
   {
     "track": 28,
@@ -328,7 +328,7 @@ jQuery(function ($) {
     "composer": "German",
     "file": "28_trumpet_tune",
     "extension": "mp3",
-    "duration": "0:01:11"
+    "duration": "01:11"
   },
   {
     "track": 29,
@@ -339,7 +339,7 @@ jQuery(function ($) {
     "composer": "Stanley",
     "file": "29_trumpet_voluntary",
     "extension": "mp3",
-    "duration": "0:01:21"
+    "duration": "01:21"
   },
   {
     "track": 30,
@@ -350,7 +350,7 @@ jQuery(function ($) {
     "composer": "Matthias",
     "file": "30_fanfare",
     "extension": "mp3",
-    "duration": "0:00:57"
+    "duration": "00:57"
   }],
             buildPlaylist = $.each(tracks, function(key, value) {
                 var trackNumber = value.track,
@@ -363,9 +363,9 @@ jQuery(function ($) {
                 }
                 $('#plList').append('<li> \
                     <div class="plItem"> \
-                        <span class="plNum"> ' + trackNumber + '.</span> \
-                        <span class="plTitle"> [' + trackGrouping + '] '+ trackName + ' by ' + trackComposer +'</span> \
-                        <span class="plLength">' + trackDuration + '</span> \
+                        <div class="plNum"> ' + trackNumber + '.</div> \
+                        <div class="plTitle"> <div class="plTrackGrouping">[' + trackGrouping + ']</div> <div class="plTrackName">'+ trackName + '</div> <div class="plTrackComposer"><span class="byLineIntro">by</span> ' + trackComposer +'</div></div> \
+                        <div class="plLength">' + trackDuration + '</div> \
                     </div> \
                 </li>');
             }),

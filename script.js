@@ -188,7 +188,7 @@ jQuery(function ($) {
     "duration": "01:15"
   },
   {
-    "track": 17,
+    "track": 16,
     "name": "Aria from Concerto Grosso",
     "album": "Preparing for Your Marriage and Wedding Cermony",
     "grouping": "Softer Pieces for Bridesmaids",
@@ -355,7 +355,7 @@ jQuery(function ($) {
             buildPlaylist = $.each(tracks, function(key, value) {
                 var trackNumber = value.track,
                     trackName = value.name,
-                    trackComposer = value.composer,
+                    trackComposer = (value.composer) ? ('by ' + value.composer): '',
                     trackGrouping = value.grouping,
                     trackDuration = value.duration;
                 if (trackNumber.toString().length === 1) {
@@ -364,7 +364,7 @@ jQuery(function ($) {
                 $('#plList').append('<li> \
                     <div class="plItem"> \
                         <div class="plNum"> ' + trackNumber + '.</div> \
-                        <div class="plTitle"> <div class="plTrackGrouping">' + trackGrouping + '</div> <div class="plTrackName">'+ trackName + '</div> <div class="plTrackComposer"><span class="byLineIntro">by</span> ' + trackComposer +'</div></div> \
+                        <div class="plTitle"> <div class="plTrackGrouping">' + trackGrouping + '</div> <div class="plTrackName">'+ trackName + '</div> <div class="plTrackComposer"> ' + trackComposer +'</div></div> \
                         <div class="plLength">' + trackDuration + '</div> \
                     </div> \
                 </li>');

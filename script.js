@@ -20,7 +20,7 @@ jQuery(function ($) {
         // initialize playlist and controls
         var index = 0,
             playing = false,
-            mediaPath = 'https://pcpcweddingaudio.s3.us-east-1.amazonaws.com/preparing-for-your-wedding/',
+            mediaPath = 'https://static.pcpcnetwork.org/files/weddings/preparing-for-your-wedding/',
             extension = '',
             tracks = [{
     "track": 1,
